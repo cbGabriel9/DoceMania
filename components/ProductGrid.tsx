@@ -7,9 +7,9 @@ const ProductGrid: React.FC = () => {
     <section id="products" className="py-20 bg-white">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <span className="text-brand-dark-pink font-semibold uppercase tracking-wider text-sm">Our Menu</span>
+          <span className="text-brand-dark-pink font-semibold uppercase tracking-wider text-sm">Nosso menu</span>
           <h2 className="text-4xl md:text-5xl font-bold text-brand-chocolate mt-2 mb-4 font-sans">
-            Choose Your Treat
+            Escolha o seu doce
           </h2>
           <div className="w-24 h-1 bg-brand-pink mx-auto rounded-full"></div>
         </div>

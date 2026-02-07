@@ -44,7 +44,7 @@ const Hero: React.FC = () => {
             onClick={scrollToProducts}
             className="group relative inline-flex items-center justify-center px-8 py-3 text-base font-medium text-white bg-brand-dark-pink rounded-full overflow-hidden shadow-lg transition-all duration-300 hover:bg-brand-pink hover:text-brand-chocolate hover:shadow-xl hover:-translate-y-1"
           >
-            <span className="mr-2">Encomendar</span>
+            <span className="mr-2">Visualizar Produtos</span>
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </button>
         </div>
