@@ -10,7 +10,7 @@ const App: React.FC = () => {
     <div className="min-h-screen flex flex-col font-sans">
       <Navbar />
       <main className="flex-grow">
-        <Hero />
+        <Hero />sdf
         <ProductGrid />
         <About />
       </main>
